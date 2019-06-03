@@ -10,7 +10,7 @@
     "react-scripts": "3.0.1",
     "sweetalert": "^2.1.2"
   },
-  "homepage": "http://taufanfadhilah.github.io/react-lazy",
+  "homepage": "https://taufanfadhilah.github.io/react-lazy",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
