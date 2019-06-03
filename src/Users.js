@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 
 const Card = ({ user }) => (
   <div className="col-md-4">
-    <div className="card">
+    <div className="card my-2">
       <img src={user.avatar} className="card-img-top" alt="avatar" />
       <div className="card-body">
         <h5 className="card-title">
